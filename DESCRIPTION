@@ -1,0 +1,16 @@
+Package: TxDb.Athaliana.BioMart.plantsmart51
+Title: Annotation package for TxDb object(s)
+Description: Exposes an annotation databases generated from BioMart by exposing these as TxDb objects. This package is for Arabidopsis thaliana (taxID: 3702). The BioMart plantsmart release number is 51.
+Version: 0.99.0
+Authors@R: person('Axel', 'Thieffry', email='axel.thieffry@gmail.com', comment=c('ORCID'='0000-0002-6717-2785'), role=c('cre', 'aut'))
+Depends: GenomicFeatures (>= 1.45.0)
+Imports: AnnotationDbi
+License: Artistic-2.0
+organism: Arabidopsis thaliana
+species: Arabidopsis thaliana
+provider: BioMart
+provider_version: Ensembl Plants Genes 51
+release_date: 2021-05-23 17:17:33 +0200 (Sun, 23 May 2021)
+resource_url: plants.ensembl.org:80
+biocViews: AnnotationData, Organism, Arabidopsis_thaliana, TxDb
+BiocType: Annotation
