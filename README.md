@@ -1,4 +1,4 @@
-### TxDb: Arabidopsis thaliana (BioMart, release 51)
+### TxDb: Arabidopsis thaliana (May 2021)
 
 - Organism: Arabidopsis thaliana (taxonomic ID: 3702)
 - Annotation source: Biomart, plantsmart
