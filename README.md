@@ -28,13 +28,13 @@ TxDb object:
 ```
 - Seqinfo:
 ```r
-Seqinfo object with 7 sequences (2 circular) from TAIR10 genome:
+Seqinfo object with 7 sequences (2 circular) from an unspecified genome:
   seqnames seqlengths isCircular genome
-  Chr1       30427671      FALSE TAIR10
-  Chr2       19698289      FALSE TAIR10
-  Chr3       23459830      FALSE TAIR10
-  Chr4       18585056      FALSE TAIR10
-  Chr5       26975502      FALSE TAIR10
-  ChrM         366924       TRUE TAIR10
-  ChrC         154478       TRUE TAIR10
+  1          30427671      FALSE   <NA>
+  2          19698289      FALSE   <NA>
+  3          23459830      FALSE   <NA>
+  4          18585056      FALSE   <NA>
+  5          26975502      FALSE   <NA>
+  Mt           366924       TRUE   <NA>
+  Pt           154478       TRUE   <NA>
 ```
